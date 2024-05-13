@@ -10,8 +10,8 @@ Cómo correr frontend:
 - Después [ng serve] y listo.
 
 Acceso:
-Backend: [http://localhost:8080/] (recomendable usar postman para hacer requests)
-Frontend: [http://localhost:4200/] (desde cualquier navegador)
+- Backend: [http://localhost:8080/] (recomendable usar postman para hacer requests)
+- Frontend: [http://localhost:4200/] (desde cualquier navegador)
 
 Funciones:
 - Drag and drop entre las listas
